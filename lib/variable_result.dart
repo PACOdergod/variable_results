@@ -1,0 +1,1 @@
+library variable_result;
